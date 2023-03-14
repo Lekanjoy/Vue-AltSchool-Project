@@ -1,4 +1,6 @@
-# altschool-3rd-semester
+# Counter App
+### Hosted Link
+ Check [Live Site](https://counter-app-alt.netlify.app/)
 
 ## Project setup
 ```
