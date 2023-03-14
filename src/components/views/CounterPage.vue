@@ -64,7 +64,7 @@ export default defineComponent({
   text-align: center;
   color: #6351c6;
   border: none;
-  min-width: 200px;
+  min-width: 150px;
   width: 100%;
   height: 100px;
   font-size: 50px;
