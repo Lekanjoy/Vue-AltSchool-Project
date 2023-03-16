@@ -1,6 +1,6 @@
 # Counter App
 ### Hosted Link
- Check [Live Site](https://counter-app-alt.netlify.app/)
+ Check [Live Site](https://vue-alt-school-project.vercel.app/)
 
 ## Project setup
 ```
